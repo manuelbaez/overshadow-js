@@ -1,5 +1,5 @@
 # overshadow-js
-Daily learning content about JavaScript
+Daily learning content about JavaScript development.
 
 - [ ] **02/05/2019** - [Beyond the basics of Git](https://medium.com/@shalithasuranga/how-does-git-work-internally-7c36dcb1f2cf): Yeah I know, you know git, but actually you know how Git really works? Going deep into the Git internals will give you the right knowledge to become a Git pro. 
 
